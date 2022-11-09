@@ -1,5 +1,11 @@
 .Logo {
-    max-width: 168px;
+    max-width: 128px;
+    align-items: center;
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 10;
+    right: 10;
 }
 @media (max-width: 800px) {
  .Logo {
